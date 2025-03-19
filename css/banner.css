@@ -34,6 +34,9 @@
   border-radius: 32px;
 }
 
+.banner__imagem {
+  width: 100%;
+}
 @media screen and (max-width: 1280px) {
   .banner {
     grid-template-columns: 1fr;
@@ -43,8 +46,5 @@
   .banner__container-titulo {
     font-size: 61px;
     line-height: 73.2px;
-  }
-  .banner__imagem {
-    width: 100%;
   }
 }

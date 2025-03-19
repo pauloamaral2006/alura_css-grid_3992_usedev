@@ -29,3 +29,17 @@
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## 💻 Screenshot
+
+<div align="center">
+
+#### Mobile
+
+  <img loading="lazy" src="./assets/screenshot-mobile.png" style="height: 500px"/>
+  
+  #### Tablet
+  <img loading="lazy" src="./assets/screenshot-tablet.png" style="width: 100%" />
+  
+  #### Desktop
+  <img loading="lazy" src="./assets/screenshot-desktop.png" style="width: 100%" />
+
+</div>

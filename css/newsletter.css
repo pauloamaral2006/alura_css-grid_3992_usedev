@@ -1,16 +1,3 @@
-:root {
-  --cor-destaque-secundario: #f0f0f0;
-  --cor-texto-principal: #333;
-  --fonte-titulo: "Arial", sans-serif;
-  --fonte-texto: "Verdana", sans-serif;
-  --cor-fundo-botao: #007bff;
-  --cor-texto: #fff;
-}
-
-body {
-  font-family: var(--fonte-texto);
-}
-
 .newsletter {
   padding: 40px 12.5%;
   background-color: var(--cor-destaque-secundario);

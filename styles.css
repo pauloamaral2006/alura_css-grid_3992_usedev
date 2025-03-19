@@ -1,31 +1,30 @@
 :root {
-    --cor-texto-principal: #0B254B;
-    --cor-texto-secundario: #5E6E89;
-    --cor-texto: #EFEFEF;
-    --fonte-texto: "Poppins", sans-serif;
-    --fonte-titulo: "Orbitron", sans-serif;
+  --cor-texto-principal: #0b254b;
+  --cor-texto-secundario: #5e6e89;
+  --cor-texto: #efefef;
+  --fonte-texto: "Poppins", sans-serif;
+  --fonte-titulo: "Orbitron", sans-serif;
 
-    --cor-links: #090129;
+  --cor-links: #090129;
 
-    --cor-destaque-principal: #FF55DF;
-    --cor-destaque-secundario: #8FFF24;
+  --cor-destaque-principal: #ff55df;
+  --cor-destaque-secundario: #8fff24;
 
-    --cor-fundo-botao: #780BF7;
+  --cor-fundo-botao: #780bf7;
 
-    --cor-de-fundo: #FFFFFF;
+  --cor-de-fundo: #ffffff;
 }
 
-
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 body {
-    width: 100vw;
+  width: 100vw;
 }
 
 main {
-    width: 100%;
+  width: 100%;
 }
